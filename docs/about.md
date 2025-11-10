@@ -31,5 +31,3 @@ This blog is a personal outlet—a space for me to **share my notes, insights, a
 | **Chief Inspiration Officer** | My cat, **[Cat's Name if you have one]** (you'll see pictures). |
 
 Thanks for reading! I hope you find something here that sparks your own interest or teaches you something new. Feel free to connect!
-
-**➡️ [Link to Contact Page]**
