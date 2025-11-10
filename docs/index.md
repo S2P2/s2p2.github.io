@@ -1,166 +1,58 @@
 ---
-icon: lucide/rocket
+icon: lucide/cat
 ---
 
-# Get started
+# My Personal Blog
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+> This text mostly generated from AI to be placeholder of my blog for the time being.
+> I will edit it into something useful later!
 
-## Commands
+**A Digital Dumpster Dive of Cool Stuff**
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+---
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+### **Welcome! Dig In.**
 
-## Examples
+**Hey there!** I'm thrilled you dropped by. This blog is where I share **everything I find interesting** across the digital landscape and beyond. Think of it as a curated collection of my latest obsessions, experiments, and thoughts.
 
-### Admonitions
+I don't stick to one topic—why should I? You'll find articles on everything from the newest **AI advancements** to my favorite old-school **video game soundtracks**, and maybe a picture of a **cat** or two.
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
+### **✨ Latest Explorations**
 
-!!! note
-
-    This is a **note** admonition. Use it to provide helpful information.
-
-!!! warning
-
-    This is a **warning** admonition. Be careful!
-
-### Details
-
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
-
-??? info "Click to expand for more info"
-    
-    This content is hidden until you click to expand it.
-    Great for FAQs or long explanations.
-
-## Code Blocks
-
-> Go to [documentation](https://zensical.org/docs/authoring/code-blocks/)
-
-``` python hl_lines="2" title="Code blocks"
-def greet(name):
-    print(f"Hello, {name}!") # (1)!
-
-greet("Python")
-```
-
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
-
-    Code annotations allow to attach notes to lines of code.
-
-Code can also be highlighted inline: `#!python print("Hello, Python!")`.
-
-## Content tabs
-
-> Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
-
-=== "Python"
-
-    ``` python
-    print("Hello from Python!")
-    ```
-
-=== "Rust"
-
-    ``` rs
-    println!("Hello from Rust!");
-    ```
-
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
-
-## Footnotes
-
-> Go to [documentation](https://zensical.org/docs/authoring/footnotes/)
-
-Here's a sentence with a footnote.[^1]
-
-Hover it, to see a tooltip.
-
-[^1]: This is the footnote.
+| Post Title | Topic | Summary |
+| :--- | :--- | :--- |
+| **Why $n$ is Better Than $n+1$ in Software** | IT/Coding | A quick dive into dependency management and versioning pitfalls. |
+| **My Current Top 5 Lo-Fi Tracks for Coding** | Music | The perfect beats to get into the zone and stay there. |
+| **Unreal Engine 5: First Impressions & Experiments** | Game/Tech | What I've been building and breaking in the newest engine. |
 
 
-## Formatting
+### **💡 Start Anywhere!**
 
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
+You don't need a map to explore what's here. **What should you read first?** Just scroll through the latest posts above or check out the popular categories below and click on whatever headline catches your eye!
 
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
+---
 
-## Icons, Emojis
+### **Categories & Curiosities**
 
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
+* **💻 IT & Coding Corner:** Practical guides, programming tips, and system administration insights.
+* **🤖 AI/ML Musings:** The latest news, ethics, and my own machine learning experiments.
+* **🎮 Game Reviews & Nostalgia:** Deep dives into new releases and throwbacks to classic games.
+* **🎵 Sound Waves:** Music recommendations, album reviews, and gear talks.
+* **🐈 Life & Randomness:** The occasional personal update, thoughts on life, and obligatory cat photos.
 
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
+---
 
-## Maths
+### **👋 About the Person Behind the Keyboard**
 
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
+I'm **S2P2**, a lifelong enthusiast of **computers and tech**. I've been captivated by what computers can do since I was a kid. This blog is my way of sharing that ongoing fascination with you. Oh, and I really, really like **cats**.
 
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
+**➡️ [More about me](/about)**
 
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
+---
+### **📧 Stay Updated**
 
-<script id="MathJax-script" async src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-</script>
+**Don't miss a dive!** Sign up for the occasional email digest of the best, weirdest, and most useful things I've found lately.
 
-## Task Lists
+**[Email Sign-up Form Here]**
 
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
+---
